@@ -1,4 +1,4 @@
-**Eazy Buy**
+#Eazy Buy
 1. User can order there necessary groceries.
 2. Admin can add or delete a product from dashboard.
 3. User can log in using gmail or facebook authentication.
