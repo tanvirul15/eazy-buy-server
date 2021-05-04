@@ -12,4 +12,5 @@
 fontawasome, heroku.
 
 **The Live site link**- https://easybuy15.web.app/
-client repository -** https://github.com/tanvirul15/eazy-buy-client
+
+**client repository -** https://github.com/tanvirul15/eazy-buy-client
